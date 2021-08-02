@@ -1,4 +1,4 @@
-'''
+
 ##Python Project
 =)Name- Srinivas 
 =)Batch- APJ-Abdul-Kalam
@@ -30,5 +30,3 @@
 #Future aspect 
 1)Make it in Gui
 2)accept crypto currency (Only stable Coins)
-
-'''
