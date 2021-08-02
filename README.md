@@ -1,20 +1,20 @@
 
-##Python Project
+****Python Project****  
 =)Name- Srinivas 
 =)Batch- APJ-Abdul-Kalam
 
-#Technologies used:
+**Technologies used**:
 1)python 3.8
 
-#Tools:
+**Tools**:
 1)vs code
 2)github
 
-#Tools of communication
+**Tools of communication**
 1)slack
 2)Github
 
-#Flow of project:
+**Flow of project**:
 1)It starts with importing random for bill number
 2)Then main class that is of swiggy starts here which have many function (user define fuctions).
 3)It is for both customer (obviously) And the restaurant owner (swiggy partner program)
@@ -27,6 +27,7 @@
 3)dhruv Sir 
 4)Manish Sir
 
-#Future aspect 
+**Future aspect** 
 1)Make it in Gui
 2)accept crypto currency (Only stable Coins)
+
