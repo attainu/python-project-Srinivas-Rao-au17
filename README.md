@@ -23,6 +23,7 @@ Batch- APJ-Abdul-Kalam
 
 
 **Tools of communication**
+
 1)slack
 
 2)GITHUB
